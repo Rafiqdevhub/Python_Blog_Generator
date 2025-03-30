@@ -19,9 +19,8 @@ A Streamlit-based application that generates blog posts using the Llama 2 langua
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Blog_Generation_App.git
-cd Blog_Generation_App
-```
+git clone https://github.com/Rafiqdevhub/Python_Blog_Generator.git
+cd Python_Blog_Generator
 
 2. Install the required dependencies:
 ```bash
